@@ -449,7 +449,7 @@ ul{
         right: 13px;
     }
     .testimonial .col-3 img {
-        width: 100%;
+        width: 80%;
         margin-top: 20px;
         border-radius: 50%;
     }
@@ -457,8 +457,12 @@ ul{
         padding: 10px;
     }
 .offer-img{
-    
     width: 100%;
+}
+
+.small-container .row .col-3{
+    ;
+    min-width: 350px;
 }
 }
 @media only screen and (width:375px){
